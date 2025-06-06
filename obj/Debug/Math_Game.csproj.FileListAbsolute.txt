@@ -1,0 +1,12 @@
+E:\Projects Outside 14\Math_Game\bin\Debug\Math_Game.exe.config
+E:\Projects Outside 14\Math_Game\bin\Debug\Math_Game.exe
+E:\Projects Outside 14\Math_Game\bin\Debug\Math_Game.pdb
+E:\Projects Outside 14\Math_Game\obj\Debug\Math_Game.csproj.AssemblyReference.cache
+E:\Projects Outside 14\Math_Game\obj\Debug\Math_Game.Form1.resources
+E:\Projects Outside 14\Math_Game\obj\Debug\Math_Game.Properties.Resources.resources
+E:\Projects Outside 14\Math_Game\obj\Debug\Math_Game.csproj.GenerateResource.cache
+E:\Projects Outside 14\Math_Game\obj\Debug\Math_Game.csproj.CoreCompileInputs.cache
+E:\Projects Outside 14\Math_Game\obj\Debug\Math_Game.exe
+E:\Projects Outside 14\Math_Game\obj\Debug\Math_Game.pdb
+E:\Projects Outside 14\Math_Game\obj\Debug\Math_Game.Form2.resources
+E:\Projects Outside 14\Math_Game\obj\Debug\Math_Game.Form3.resources
